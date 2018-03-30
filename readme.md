@@ -1,5 +1,7 @@
 ## react-valid-attributes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/unshift/react-valid-attributes.svg)](https://greenkeeper.io/)
+
 Exports two functions:
 
 - pick: pick all valid html attributes from props for a given element
