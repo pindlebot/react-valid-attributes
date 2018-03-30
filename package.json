@@ -1,0 +1,11 @@
+{
+  "name": "react-valid-attributes",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.omit": "^4.5.0",
+    "lodash.pick": "^4.4.0",
+    "react-html-attributes": "^1.4.1"
+  }
+}
